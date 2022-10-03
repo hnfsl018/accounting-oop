@@ -43,7 +43,6 @@ export class Document {
   }
 
   showTotal() {
-    console.log("total :: ", this.total);
     return this.total;
   }
 }
